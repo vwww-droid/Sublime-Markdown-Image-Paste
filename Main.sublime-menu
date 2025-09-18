@@ -1,0 +1,24 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "T",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "MarkdownImagePaste",
+                "children":
+                [
+                    {
+                        "caption": "Paste Image from Clipboard",
+                        "command": "paste_image"
+                    },
+                    {
+                        "caption": "Insert Image from File", 
+                        "command": "paste_image_from_file"
+                    }
+                ]
+            }
+        ]
+    }
+]

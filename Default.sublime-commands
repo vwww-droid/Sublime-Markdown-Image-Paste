@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "MarkdownImagePaste: Paste Image from Clipboard",
+        "command": "paste_image"
+    },
+    {
+        "caption": "MarkdownImagePaste: Insert Image from File",
+        "command": "paste_image_from_file"
+    }
+]

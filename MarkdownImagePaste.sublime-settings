@@ -1,0 +1,28 @@
+{
+    // Image storage path configuration
+    // Relative: relative to current markdown file, e.g. "images" or "../assets/images"
+    // Absolute: full path, e.g. "/Users/username/Documents/blog/images"
+    // Environment variables supported, e.g. "$HOME/Pictures/blog"
+    "image_folder": "images",
+    
+    // Image filename prefix
+    "image_prefix": "image",
+    
+    // Include timestamp in filename
+    "include_timestamp": true,
+    
+    // Include unique ID in filename
+    "include_unique_id": true,
+    
+    // Default alt text for images
+    "default_alt_text": "Image",
+    
+    // Supported image formats
+    "supported_formats": ["*.png", "*.jpg", "*.jpeg", "*.gif", "*.bmp", "*.webp"],
+    
+    // Link path type in Markdown
+    // "relative": relative path (recommended for portability)
+    // "absolute": absolute path
+    // "same_as_storage": same as storage path configuration
+    "link_path_type": "relative"
+}

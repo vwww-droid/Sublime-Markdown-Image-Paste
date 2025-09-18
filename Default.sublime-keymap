@@ -1,0 +1,24 @@
+[
+    {
+        "keys": ["ctrl+shift+v"],
+        "command": "paste_image",
+        "context": [
+            {
+                "key": "markdown_image_paste_enabled",
+                "operator": "equal",
+                "operand": true
+            }
+        ]
+    },
+    {
+        "keys": ["ctrl+shift+i"], 
+        "command": "paste_image_from_file",
+        "context": [
+            {
+                "key": "markdown_image_paste_enabled",
+                "operator": "equal",
+                "operand": true
+            }
+        ]
+    }
+]
