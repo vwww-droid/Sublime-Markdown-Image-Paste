@@ -4,6 +4,10 @@
 
 A powerful Sublime Text plugin for seamlessly pasting and inserting images into Markdown files. Automatically saves clipboard images and generates proper Markdown image links with flexible path configuration.
 
+## 🏷️ Tags
+
+`sublime-text` `sublime-plugin` `macos` `python` `productivity` `markdown` `image-paste` `clipboard` `workflow` `automation`
+
 ![Plugin Demo](i/cmd-shift-p-screenshot.png)
 
 ## ✨ Features

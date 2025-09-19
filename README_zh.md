@@ -4,6 +4,10 @@
 
 一个强大的 Sublime Text 插件，用于在 Markdown 文件中无缝粘贴和插入图片。自动保存剪贴板图片并生成正确的 Markdown 图片链接，支持灵活的路径配置。
 
+## 🏷️ 标签
+
+`sublime-text` `sublime-plugin` `macos` `python` `productivity` `markdown` `image-paste` `clipboard` `workflow` `automation`
+
 ![插件演示](i/cmd-shift-p-screenshot.png)
 
 ## ✨ 功能特性
