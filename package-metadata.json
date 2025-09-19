@@ -1,0 +1,35 @@
+{
+    "version": "1.0.0",
+    "url": "https://github.com/vwww-droid/Sublime-Markdown-Image-Paste",
+    "description": "A powerful Sublime Text plugin for seamlessly pasting and inserting images into Markdown files. Automatically saves clipboard images and generates proper Markdown image links with flexible path configuration.",
+    "author": "vwww-droid",
+    "homepage": "https://github.com/vwww-droid/Sublime-Markdown-Image-Paste",
+    "issues": "https://github.com/vwww-droid/Sublime-Markdown-Image-Paste/issues",
+    "readme": "https://github.com/vwww-droid/Sublime-Markdown-Image-Paste/blob/main/README.md",
+    "previous_names": [],
+    "labels": [
+        "markdown",
+        "image",
+        "paste",
+        "clipboard",
+        "productivity"
+    ],
+    "sublime_text": ">=4000",
+    "platforms": [
+        "osx"
+    ],
+    "python_versions": [
+        "3.3"
+    ],
+    "dependencies": [],
+    "details": "https://github.com/vwww-droid/Sublime-Markdown-Image-Paste",
+    "releases": [
+        {
+            "sublime_text": ">=4000",
+            "platforms": ["osx"],
+            "url": "https://github.com/vwww-droid/Sublime-Markdown-Image-Paste/releases/tag/v1.0.0",
+            "version": "1.0.0",
+            "date": "2024-09-19 00:00:00"
+        }
+    ]
+}
