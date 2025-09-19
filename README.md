@@ -88,6 +88,17 @@ Configure the plugin by editing `MarkdownImagePaste.sublime-settings`:
 
 ## 📦 Installation
 
+### Method 1: Package Control (Recommended)
+
+1. Open Sublime Text
+2. Press `Cmd+Shift+P` to open Command Palette
+3. Type "Package Control: Install Package" and press Enter
+4. Search for "MarkdownImagePaste" and install it
+5. Install pngpaste: `brew install pngpaste`
+6. Restart Sublime Text
+
+### Method 2: Manual Installation
+
 1. Clone or download this repository
 2. Copy the plugin folder to your Sublime Text Packages directory:
    ```

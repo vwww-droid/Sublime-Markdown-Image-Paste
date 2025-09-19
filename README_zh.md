@@ -88,6 +88,17 @@
 
 ## 📦 安装
 
+### 方法一：Package Control（推荐）
+
+1. 打开 Sublime Text
+2. 按 `Cmd+Shift+P` 打开命令面板
+3. 输入 "Package Control: Install Package" 并回车
+4. 搜索 "MarkdownImagePaste" 并安装
+5. 安装 pngpaste：`brew install pngpaste`
+6. 重启 Sublime Text
+
+### 方法二：手动安装
+
 1. 克隆或下载此仓库
 2. 将插件文件夹复制到 Sublime Text Packages 目录：
    ```
